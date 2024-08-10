@@ -1,4 +1,4 @@
-# Dappazon
+# UCAS dapp store
 
 ## Technology Stack & Tools
 
